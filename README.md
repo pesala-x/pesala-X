@@ -22,5 +22,5 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pesala-x&show_icons=true&locale=en&layout=compact&theme=dark" alt="pesala-x" height="195" /> <img src="https://github-readme-stats.vercel.app/api?username=pesala-x&show_icons=true&locale=en&theme=dark" alt="pesala-x" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pesala-x&show_icons=true&locale=en&layout=compact&theme=dark" alt="pesala-x" height="150" /> <img src="https://github-readme-stats.vercel.app/api?username=pesala-x&show_icons=true&locale=en&theme=dark" alt="pesala-x" height="150" />
 </p>
