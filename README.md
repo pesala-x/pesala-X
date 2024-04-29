@@ -17,7 +17,7 @@
 </p>
 
 ### About Me
-- 💬 Ask me about **Java, C, Python, JS, Html, PHP, CSS, SQL**
+- 💬 Ask me about **Java, C, Python, JS, TypeScript, Html, PHP, CSS, SQL**
 - 📫 Reach me at **gkpesalawinodith@gmail.com**
 
 ### GitHub Stats
