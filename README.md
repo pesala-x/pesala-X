@@ -1,20 +1,17 @@
 <div align="center">
-  <br>
-  <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand-Bold&color=00b4d8&size=50&center=true&vCenter=true&height=60&width=650&lines=Hi,+I'm+;Pesala+Winodith+;I'm+Software+Developer!+;Web+Developer!+;Mobile+App+Developer!+;+NoCode+Game+Developer+!+;Welcome+to+My+Profile!+;Ok..+Let's+go">
-  </strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=50&center=true&vCenter=true&height=60&width=800&lines=Hi,+I'm+Pesala+Winodith;Software+Developer;Web+Developer;Mobile+App+Developer;NoCode+Game+Developer;Welcome+to+My+Futuristic+Profile!;Let’s+Explore+the+Future!" alt="Typing SVG">
 </div>
 
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pesala-x&label=Profile%20views&color=0e75b6&style=flat" alt="pesala-x" />
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/pesalawinodith" target="blank"> 
-    <img src="https://img.shields.io/twitter/follow/pesalawinodith?logo=twitter&style=for-the-badge" alt="pesalawinodith" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pesala-x&label=Visitors&color=00FFFF&style=for-the-badge" alt="profile views" />
+  <a href="https://twitter.com/pesalawinodith" target="blank">
+    <img src="https://img.shields.io/twitter/follow/pesalawinodith?logo=twitter&style=for-the-badge&color=00FFFF" alt="Twitter Follow" />
   </a>
 </p>
+
+---
 
 ### About Me
 - 💬 Ask me about **Java, C, Python, JS, TypeScript, Html, PHP, CSS, SQL**
