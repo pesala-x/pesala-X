@@ -13,6 +13,7 @@ I'm a passionate **Software Developer** focused on creating high-quality web and
 
 **Connect with me:**
 - [![Twitter Follow](https://img.shields.io/twitter/follow/pesalawinodith?style=social)](https://twitter.com/pesalawinodith)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/pesala-winodith-893740279/)
 - 📫 **Reach me at:** [gkpesalawinodith@gmail.com](mailto:gkpesalawinodith@gmail.com)
 <p></p>
 <p></p>
