@@ -22,10 +22,19 @@ I'm a passionate **Software Developer** focused on creating high-quality web and
 ## 🚀 Tech Stack
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=007396" />
+  <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+<!--   <img src="https://img.shields.io/badge/Clippy-black?style=for-the-badge&logo=microsoft&logoColor=0078D6" /> -->
+  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=563D7C" />
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=764ABC" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -35,7 +44,8 @@ I'm a passionate **Software Developer** focused on creating high-quality web and
   <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<!--   <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=336791" /> -->
   <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 </div>
 <p></p>
@@ -44,6 +54,15 @@ I'm a passionate **Software Developer** focused on creating high-quality web and
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</div>
+<p></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Payload%20CMS-black?style=for-the-badge&logo=payload&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=F02E65" />
+</div>
+<p></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 </div>
 
 ## GitHub Stats
