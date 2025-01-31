@@ -16,7 +16,7 @@ I'm a passionate **Software Developer** focused on creating high-quality web and
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/pesala-winodith-893740279/)
 - 📫 **Reach me at:** [gkpesalawinodith@gmail.com](mailto:gkpesalawinodith@gmail.com)
 - 🚀 **[Check Out My Portfolio](https://developer-portfolio-next-js-pesalas-projects.vercel.app)**  
-- ✨ **[Check Out My Blog](https://pesalax.blogspot.com/)**
+- ✨ **[Check Out My Blogs](https://pesalax.blogspot.com/)**
 <p></p>
 <p></p>
 <br/>
