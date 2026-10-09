@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a passionate **Software Developer** focused on creating high-quality web and mobile applications. With experience in **Java**, **React**, and **Flutter**, I love working on cutting-edge projects and bringing new ideas to life.
+I'm a passionate **Junior Software Engineer** & **Founder of Creative-X Solutions** focused on creating high-quality web and mobile applications. With experience in **Java**, **React**, and **Flutter**, I love working on cutting-edge projects and bringing new ideas to life.
 
 **Connect with me:**
 - [![Twitter Follow](https://img.shields.io/twitter/follow/pesalawinodith?style=social)](https://twitter.com/pesalawinodith)
